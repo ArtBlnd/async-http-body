@@ -1,0 +1,19 @@
+[package]
+name = "async-http-body"
+description = "Agit init HttpBody Support Async Expressions"
+license-file = "LICENSE.txt"
+readme = "README.md"
+version = "0.1.5"
+edition = "2018"
+categories = ["async"]
+keywords = ["http", "async", "http-body"]
+repository = "https://github.com/ArtBlnd/async-http-body"
+
+
+[dependencies]
+async-trait = "0.1.57"
+bytes = "1.2.1"
+http = "0.2.8"
+http-body = "0.4.5"
+pin-project = "1.0.12"
+self-reference = "0.1.5"
