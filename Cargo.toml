@@ -5,7 +5,7 @@ license-file = "LICENSE.txt"
 readme = "README.md"
 version = "0.1.5"
 edition = "2018"
-categories = ["async"]
+categories = ["asynchronous"]
 keywords = ["http", "async", "http-body"]
 repository = "https://github.com/ArtBlnd/async-http-body"
 
